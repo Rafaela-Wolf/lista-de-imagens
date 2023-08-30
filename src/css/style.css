@@ -25,25 +25,25 @@ h2 {
 }
 
 .images .img-rome {
-    background-image: url('/src/images/rome.jpg');
+    background-image: url('src/images/rome.jpg');
     width: 335px;
     height: 431px;
 }
 
 .images .img-boat {
-    background-image: url('/src/images/boat-at-sea.jpg');
+    background-image: url('src/images/boat-at-sea.jpg');
     width: 335px;
     height: 431px;
 }
 
 .images .img-sand {
-    background-image: url('/src/images/sand-and-sea.jpg');
+    background-image: url('src/images/sand-and-sea.jpg');
     width: 335px;
     height: 431px;
 }
 
 .images .img-starry {
-    background-image: url('/src/images/starry-night.jpg');
+    background-image: url('src/images/starry-night.jpg');
     width: 335px;
     height: 431px;
 }
